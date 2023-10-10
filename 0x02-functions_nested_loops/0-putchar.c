@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main =============
+ * main this is how its supposed to work
  * lets see if it works
  */
 int main(void)
