@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main this is how its supposed to work
- * lets see if it works
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
